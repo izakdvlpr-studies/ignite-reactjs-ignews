@@ -49,6 +49,6 @@ An application where the user can subscribe to text content, like a newsletter i
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2021-present, zevdvlpr.</sub>
-  <p>Ignite <a href="https://github.com/zevdvlpr/ignite-reactjs-ignews/tree/dev/LICENSE">is MIT licensed 💖</a></p>
+  <p>Ig.news <a href="https://github.com/zevdvlpr/ignite-reactjs-ignews/tree/dev/LICENSE">is MIT licensed 💖</a></p>
   <img src="/.github/rocketseat.png" width="35" />
 </div>
