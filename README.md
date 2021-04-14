@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/public/favicon.png" width="120" />    
+    <img src="/.github/rocketseat.png" width="120" />    
     <h1>Ig.news</h1>  
     <p>🚀 News about the React world.</p>    
     <hr />    
@@ -50,5 +50,5 @@ An application where the user can subscribe to text content, like a newsletter i
   <h1>Open Source</h1>
   <sub>Copyright © 2021-present, zevdvlpr.</sub>
   <p>Ignite <a href="https://github.com/zevdvlpr/ignite-reactjs-ignews/tree/dev/LICENSE">is MIT licensed 💖</a></p>
-  <img src="/public/favicon.png" width="35" />
+  <img src="/.github/rocketseat.png" width="35" />
 </div>
