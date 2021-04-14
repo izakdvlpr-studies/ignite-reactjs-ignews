@@ -4,7 +4,7 @@
     <p>🚀 News about the React world.</p>    
     <hr />    
     <p>
-        <a href="https://rocketseat.com/"><img src="https://img.shields.io/badge/type-ignite-red" alt="Repo Type" /></a>
+        <a href="https://rocketseat.com/"><img src="https://img.shields.io/badge/type-bootcamp-ignite-red" alt="Repo Type" /></a>
         <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" /></a>
         <img src="https://img.shields.io/badge/platform-web-blueviolet" alt="Project Platform" />                
         <a href="https://github.com/zevdvlpr/ignite-reactjs-ignews/tree/dev/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/ignite-reactjs-ignews?color=red&label=license" alt="Repo License" /></a>
