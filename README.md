@@ -1,7 +1,7 @@
 <div align="center">
     <img src="/.github/rocketseat.png" width="120" />    
     <h1>Ig.news</h1>  
-    <p>🚀 News about the React world.</p>    
+    <p>📰 News about the React world.</p>    
     <hr />    
     <p>
         <a href="https://rocketseat.com/"><img src="https://img.shields.io/badge/type-ignite-red" alt="Repo Type" /></a>
